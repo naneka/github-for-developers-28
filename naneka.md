@@ -4,3 +4,4 @@ Location: RTP
 [ ] Food
 hobby
 **favarite color**:**aaaa**
+**current location**:**Cary**
